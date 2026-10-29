@@ -2,12 +2,12 @@ export const PROFILE = {
   name: "Mateusz Gruntkowski",
   role: "Software developer · Poznań, Poland",
   intro:
-    "I'm a software developer drawn to both **software engineering** and **artificial intelligence**. I pick up new technologies quickly and enjoy turning ideas into well-built, reliable products, regardless of the stack.",
+    "I'm a software developer passionate about building things, from web applications to AI-powered solutions. I'm always curious about new technologies and love turning ideas into reliable, well-crafted products.",
   facts: [
     {
       key: "studying",
       value:
-        "MSc Computer Science and Econometrics, Poznań University of Economics and Business",
+        "**MSc Computer Science and Econometrics**, Poznań University of Economics and Business",
     },
     { key: "working", value: "ERP developer intern at **IT.integro**" },
     {
