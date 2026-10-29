@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" width="1400" height="1000" fill="none" stroke-width="1" stroke-linejoin="round" stroke-linecap="round">
+<polyline points="667.0,340.5 742.6,340.5 802.6,280.5 1400.0,280.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<polyline points="667.0,354.5 748.4,354.5 808.4,294.5 1400.0,294.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<polyline class="pulse" pathLength="100" points="667.0,354.5 748.4,354.5 808.4,294.5 1400.0,294.5" style="animation-duration:6.5s;animation-delay:-0.0s"/>
+<polyline points="667.0,368.5 754.2,368.5 814.2,308.5 1400.0,308.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<polyline points="667.0,382.5 760.0,382.5 820.0,322.5 1400.0,322.5" stroke="#72B37E" stroke-opacity="0.5"/>
+<polyline class="pulse" pathLength="100" points="667.0,382.5 760.0,382.5 820.0,322.5 1400.0,322.5" style="animation-duration:8.2s;animation-delay:-5.9s"/>
+<polyline points="667.0,396.5 765.8,396.5 825.8,336.5 1400.0,336.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<polyline points="667.0,410.5 771.6,410.5 831.6,350.5 1400.0,350.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<polyline class="pulse" pathLength="100" points="667.0,410.5 771.6,410.5 831.6,350.5 1400.0,350.5" style="animation-duration:9.9s;animation-delay:-5.3s"/>
+<polyline points="667.0,424.5 777.4,424.5 837.4,364.5 1400.0,364.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<polyline points="667.0,452.5 761.6,452.5 821.6,512.5 1400.0,512.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<polyline points="667.0,466.5 755.8,466.5 815.8,526.5 1400.0,526.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<polyline points="667.0,480.5 750.0,480.5 810.0,540.5 1400.0,540.5" stroke="#72B37E" stroke-opacity="0.5"/>
+<polyline class="pulse" pathLength="100" points="667.0,480.5 750.0,480.5 810.0,540.5 1400.0,540.5" style="animation-duration:7.1s;animation-delay:-0.2s"/>
+<polyline points="667.0,494.5 744.2,494.5 804.2,554.5 1400.0,554.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<polyline points="667.0,508.5 738.4,508.5 798.4,568.5 1400.0,568.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<polyline points="667.0,536.5 739.3,536.5 789.3,656.5 1400.0,656.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<polyline points="667.0,550.5 730.0,550.5 780.0,670.5 1400.0,670.5" stroke="#72B37E" stroke-opacity="0.5"/>
+<polyline class="pulse" pathLength="100" points="667.0,550.5 730.0,550.5 780.0,670.5 1400.0,670.5" style="animation-duration:8.8s;animation-delay:-8.4s"/>
+<polyline points="667.0,564.5 720.7,564.5 770.7,684.5 1400.0,684.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<polyline points="667.0,592.5 703.3,592.5 763.3,622.5 1000.0,622.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<circle cx="1000.0" cy="622.5" r="3.5" fill="#131415" stroke="#ECECE8" stroke-opacity="0.21"/>
+<polyline points="667.0,606.5 700.0,606.5 760.0,636.5 1000.0,636.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<circle cx="1000.0" cy="636.5" r="3.5" fill="#131415" stroke="#ECECE8" stroke-opacity="0.21"/>
+<polyline points="667.0,620.5 696.7,620.5 756.7,650.5 1000.0,650.5" stroke="#ECECE8" stroke-opacity="0.13"/>
+<circle cx="1000.0" cy="650.5" r="3.5" fill="#131415" stroke="#ECECE8" stroke-opacity="0.21"/>
+</svg>
